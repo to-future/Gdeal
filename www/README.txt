@@ -1,0 +1,9 @@
+本项目是一小型购物网站，分前后台管理
+文件布局分为以下几个模块：
+admin：后台管理
+assets：图片管理，存储css以及js
+comment:商品评论
+inc：链接数据库以及通用代码
+shopcart：购物车
+shopping：普通购物功能
+user：管理用户
